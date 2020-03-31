@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="news_api_key">7d7dee52fd4e409ba9449fc4594d7685</string>
+
+    <string-array name="countries">
+        <item>United States</item>
+        <item>Mexico</item>
+        <item>India</item>
+        <item>Japon</item>
+        <item>Rusia</item>
+        <item>Saudi Arabia</item>
+        <item>Brazil</item>
+        <item>Venezuela</item>
+        <item>Korea</item>
+    </string-array>
+
+    <string-array name="country_code">
+        <item>us</item>
+        <item>mx</item>
+        <item>in</item>
+        <item>jp</item>
+        <item>ru</item>
+        <item>sa</item>
+        <item>br</item>
+        <item>ve</item>
+        <item>kr</item>
+    </string-array>
+
+
+</resources>
